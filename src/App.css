@@ -4,7 +4,7 @@
 .wrap {
   position: relative;
   max-width: 1200px;
-  margin: 140px auto 0;
+  margin: 10px auto 0;
 }
 .card {
   display: flex;
@@ -26,7 +26,7 @@
   border: 0;
   padding: 0;
   flex: 1 0 60%;
-  max-width: 60%;
+  max-width: 50%;
 }
 .card-image img {
   width: 100%;
